@@ -6,8 +6,7 @@ MongoDb is used to store the blog post with a title snippet and body properties.
 Screenshots:
 
 Database (No blogs yet): 
-![image](https://github.com/markDoesany/ble-blog/assets/143711609/be701cdf-cba6-4d78-bdea-20f30c53898d)
-
+![image](https://github.com/markDoesany/ble-blog/assets/143711609/9d692fed-27a4-4192-bba8-508bdb9a213f)
 
 Home Page (No blogs yet):
 ![image](https://github.com/markDoesany/ble-blog/assets/143711609/e782d9b8-61d6-4312-8073-895ad1a4b309)
